@@ -1,0 +1,59 @@
+Faisal Javed as probation AJK Rate:6
+Adnan Bashir as 		Rate:6
+Muhammad Usman			Rate:6
+
+Bilawal Bashir:
+	Adyala Road Rawal Pindi
+	1 year 
+	worked in 7 
+	migrations = 1
+	resourcefull controllers = 0
+	namespaces = 1
+	composers = 1
+	relations = 0
+	model binding = 0
+
+
+	middleware = 0
+	API = 
+	Passport = 
+	Facades = 
+	Testing = 
+	
+
+date 11/11/2020
+Adil Maqsood
+	not compatiable
+	laravel exp 1 year
+	
+
+
+Bialal 
+	version=5.5, 6, 7, 8
+	differences = no
+	packages = 
+	routes = 1
+	reverse routes = 0
+	resourcefull routes = 1
+	middleware = 1
+	apply_middleware = 0
+	relationships = 0
+	route-group = 0
+	blade-partials = 0
+
+
+Adil Khan:
+	Git: 1
+	Composer: 1
+	versions:5.4 > 7
+	versions difference: 
+	blade partials: 1
+	
+	middle-ware:1
+	custome-middle: 1
+	how to apply middlware: 1
+	type of	relationships:
+	route-model-binding:
+	Global Function/Variables:
+	
+	
