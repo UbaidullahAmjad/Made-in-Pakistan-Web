@@ -1,61 +1,54 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+# Introduction:
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+The clients need an automated platform for their business that is able to sell their products virtually through a web-based system. The intended system will be able to manage all the products in a competent way with modern design practices for a better presentation of products to users.
+They contacted me for the development of this automated system to boost their business and compete with their competitors for a better marketplace.
+I developed their system and implement their business logic and deliver them a quality product with a better user experience and design.
+# Country:
+Pakistan
+# Industry:
+eCommerce
+# Completion Time:
+6 Months
+# Team Size:
+5
+# Tech Stack:
+- Laravel
+- MySQL
+- Selenium
+- Jmeter
+- Postman
+- Adobe XD
+# Target Devices:
+- Web
+- Mobile
+- Tablets
+- Laptop
+- Desktop
+# What I Delivered:
+I delivered a web-based eCommerce system that manages all the operations and functionalities of users. The system not only includes all the features but also has a modern design and excellent user experience in it.
+## Admin Module App:
+This is the admin module that manages all the control and coordination of the website in an efficient way. Following are the functionalities that the admin can perform
+- Product control and management
+- Categories control and management
+- Customer control and management
+- Order tracking and management
+- Payment gateways management and control
+- Customized site settings
+- Email management
+## Ecommerce Shop App:
+This is the main user side on which users directly interact and perform different eCommerce activities. Users can perform the following activities on this eCommerce shop.
+- Product search and selection
+- Product customization 
+- Categories search and selection
+- Product order and control
+- Pay through payment gateways
+- View Order Details
+- User Dashboard control and management
+## Supplier App:
+This module provides easy access to the customers to directly place their orders from suppliers and manage all the order records on this module. In this module, the user performs the following action
+- Product selection and control
+- Products order control
+- Order detail management
+- Order rectification management
+- Dashboard control and management
 
-## About Laravel
-
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
